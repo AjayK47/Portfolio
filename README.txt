@@ -1,10 +1,5 @@
 ### Portfolio 
 
-
-
-
-
-
 Credits:
 
 	Demo Images:
